@@ -7,16 +7,16 @@ This particular chatbot was used in a SmartSpend website which focuses on AutoIn
 
 ## How it works
 
-![App Screenshot] (https://github.com/prajwalmj07/waterleakdetector/blob/main/Images/flowchart.png)
-![App Screenshot] (https://github.com/prajwalmj07/waterleakdetector/blob/main/Images/circuit.png)
+![App Screenshot](https://github.com/prajwalmj07/waterleakdetector/blob/main/Images/flowchart.png)
+![App Screenshot](https://github.com/prajwalmj07/waterleakdetector/blob/main/Images/circuit.png)
 
 
 ## Screenshot
 
-![App Screenshot] (https://github.com/prajwalmj07/waterleakdetector/blob/main/Images/flow.png)
-![App Screenshot] (https://github.com/prajwalmj07/waterleakdetector/blob/main/Images/flowfirebase.png)
-![App Screenshot] (https://github.com/prajwalmj07/waterleakdetector/blob/main/Images/notflow.png)
-![App Screenshot] (https://github.com/prajwalmj07/waterleakdetector/blob/main/Images/notflowfirebase.png)
+![App Screenshot](https://github.com/prajwalmj07/waterleakdetector/blob/main/Images/flow.png)
+![App Screenshot](https://github.com/prajwalmj07/waterleakdetector/blob/main/Images/flowfirebase.png)
+![App Screenshot](https://github.com/prajwalmj07/waterleakdetector/blob/main/Images/notflow.png)
+![App Screenshot](https://github.com/prajwalmj07/waterleakdetector/blob/main/Images/notflowfirebase.png)
 
 ## Deployment
 
