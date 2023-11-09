@@ -38,4 +38,4 @@ The above image shows the screenshot of the the android application when the wat
 
 The above image shows the backend firebase data when the water is not flowing throught the pipeline
 
-
+![App Screenshot](https://github.com/prajwalmj07/waterleakdetector/blob/main/Images/alert.png)
