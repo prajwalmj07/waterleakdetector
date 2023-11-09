@@ -19,45 +19,18 @@ The above image is the basic flowchart of the project
 
 ![App Screenshot](https://github.com/prajwalmj07/waterleakdetector/blob/main/Images/flow.png)
 
-The above image shows the android application when the water is flowing throught the pipeline
+The above image shows the screenshot of the android application when the water is flowing throught the pipeline
 
 ![App Screenshot](https://github.com/prajwalmj07/waterleakdetector/blob/main/Images/flowfirebase.png)
 
-The above image shows the backend firebase data when the water is flowing throught the pipeline
+The above image shows  the backend firebase data when the water is flowing throught the pipeline
 
 ![App Screenshot](https://github.com/prajwalmj07/waterleakdetector/blob/main/Images/notflow.png)
 
-The above image shows the android application when the water is not flowing throught the pipeline
+The above image shows the screenshot of the the android application when the water is not flowing throught the pipeline
 
 ![App Screenshot](https://github.com/prajwalmj07/waterleakdetector/blob/main/Images/notflowfirebase.png)
 
 The above image shows the backend firebase data when the water is not flowing throught the pipeline
 
-## Deployment
 
-To deploy this project run
-
-```bash
-  npm run deploy
-```
-
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/prajwalmj07/chtbot
-```
-Use Pycharm to run this locally
-
-Install the required libraries using build.sh
-
-Change the intents.json according to your requirements
-
-Train the model once on your computer 
-
-Start the server
-
-```bash
-  Run app.py
-```
