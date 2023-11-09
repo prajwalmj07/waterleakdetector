@@ -13,7 +13,7 @@ This particular chatbot was used in a SmartSpend website which focuses on AutoIn
 
 ## Screenshot
 
-![App Screenshot] (https://github.com/prajwalmj07/waterleakdetector/blob/main/Images/flow.png) ![App Screenshot] (https://github.com/prajwalmj07/waterleakdetector/blob/main/Images/flowfirebase.png)
+![App Screenshot] (https://github.com/prajwalmj07/waterleakdetector/blob/main/Images/flow.png)
 ![App Screenshot] (https://github.com/prajwalmj07/waterleakdetector/blob/main/Images/flowfirebase.png)
 ![App Screenshot] (https://github.com/prajwalmj07/waterleakdetector/blob/main/Images/notflow.png)
 ![App Screenshot] (https://github.com/prajwalmj07/waterleakdetector/blob/main/Images/notflowfirebase.png)
