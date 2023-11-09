@@ -3,6 +3,7 @@
 This project mainly focuses on remote monitoring of the watersupply and leakdetection system.
 
 When our flow sensors detect a leak, our Android application notifies the user. If the user doesn't respond to stop the water flow, the application automatically cuts off the water after a designated time.
+
 Additionally, the application keeps a record of the total volume of water that has passed through the pipes.
 
 ## How it works
