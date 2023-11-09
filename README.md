@@ -8,10 +8,11 @@ This particular chatbot was used in a SmartSpend website which focuses on AutoIn
 ## How it works
 
 ![App Screenshot](https://github.com/prajwalmj07/waterleakdetector/blob/main/Images/flowchart.png)
+
 The above image is the basic flowchart of the project
 
 ![App Screenshot](https://github.com/prajwalmj07/waterleakdetector/blob/main/Images/circuit.png)
-The above image is the basic circuit representation of the project
+
 
 
 ## Screenshot
