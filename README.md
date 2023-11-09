@@ -8,15 +8,29 @@ This particular chatbot was used in a SmartSpend website which focuses on AutoIn
 ## How it works
 
 ![App Screenshot](https://github.com/prajwalmj07/waterleakdetector/blob/main/Images/flowchart.png)
+The above image is the basic flowchart of the project
+
 ![App Screenshot](https://github.com/prajwalmj07/waterleakdetector/blob/main/Images/circuit.png)
+The above image is the basic circuit representation of the project
 
 
 ## Screenshot
 
 ![App Screenshot](https://github.com/prajwalmj07/waterleakdetector/blob/main/Images/flow.png)
+
+The above image shows the android application when the water is flowing throught the pipeline
+
 ![App Screenshot](https://github.com/prajwalmj07/waterleakdetector/blob/main/Images/flowfirebase.png)
+
+The above image shows the backend firebase data when the water is flowing throught the pipeline
+
 ![App Screenshot](https://github.com/prajwalmj07/waterleakdetector/blob/main/Images/notflow.png)
+
+The above image shows the android application when the water is not flowing throught the pipeline
+
 ![App Screenshot](https://github.com/prajwalmj07/waterleakdetector/blob/main/Images/notflowfirebase.png)
+
+The above image shows the backend firebase data when the water is not flowing throught the pipeline
 
 ## Deployment
 
